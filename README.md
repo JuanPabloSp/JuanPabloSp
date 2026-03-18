@@ -1,4 +1,4 @@
-# Juan Pablo Servin
+# 👋 ¡Hola! Soy Juan Pablo
 
 ## Especialista en Administración de Sistemas, Redes e Infraestructura Cloud
 
@@ -29,7 +29,7 @@ Mi enfoque combina la experiencia práctica en despliegue de redes con la implem
 ### Scripting & Automatización
 - PowerShell: Automatización en Windows y Azure
 - Bash: Automatización en Linux
-- Git, Docker (conceptos)
+- Git, Docker 
 
 ### Web & Optimización
 - Gestión de plataformas web
