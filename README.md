@@ -47,7 +47,8 @@ Mi enfoque combina la experiencia práctica en despliegue de redes con la implem
 ### Certificaciones
 - AZ-104: Microsoft Azure Administrator
 - AZ-500: Microsoft Azure Security Engineer
-
+- SAA-C03: AWS Certified Solutions Architect - Associate
+- GH-200: GitHub Actions
 ---
 
 ## Áreas de Especialización
